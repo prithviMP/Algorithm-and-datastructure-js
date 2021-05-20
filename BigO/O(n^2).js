@@ -11,4 +11,4 @@ for(let i=0; i < boxes.length; i++){ //O(n)
 
 logAllPairsOfArray(boxesArray);
 
-//BIGO O(n*n) => O(n^2)
+//BIGO O(n*n) => O(n^2) => Quadratic time
